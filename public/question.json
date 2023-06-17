@@ -8,7 +8,17 @@
       {
         "id": 2,
         "question": "質問サンプル２",
-        "type": "A"
-      }
+        "type": "B"
+      },
+      {
+        "id": 3,
+        "question": "質問サンプル3",
+        "type": "C"
+      },
+      {
+        "id": 4,
+        "question": "質問サンプル4",
+        "type": "D"
+      }  
     ]
   }
